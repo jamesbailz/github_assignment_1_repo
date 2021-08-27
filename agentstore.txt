@@ -1,0 +1,11 @@
+i = 0, y = 73, x = 20, store = 7
+i = 1, y = 91, x = 52, store = 1
+i = 2, y = 52, x = 40, store = 4
+i = 3, y = 93, x = 14, store = 10
+i = 4, y = 48, x = 35, store = 7
+i = 5, y = 11, x = 63, store = 1
+i = 6, y = 70, x = 63, store = 9
+i = 7, y = 19, x = 30, store = 2
+i = 8, y = 42, x = 80, store = 6
+i = 9, y = 20, x = 46, store = 8
+total store = 55
